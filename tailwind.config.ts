@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'hero-pattern': "url('/images/backup.png')", // Updated with forward slashes and encoding spaces
+      },
     },
   },
   plugins: [],
